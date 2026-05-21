@@ -17,16 +17,16 @@ const SEO = ({
     "telephone": "+521234567890",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Calle Principal #123",
-      "addressLocality": "Ciudad",
-      "addressRegion": "Estado",
-      "postalCode": "12345",
+      "streetAddress": "Carretera Federal Mexico-Puebla",
+      "addressLocality": "san matias tlalancaleca",
+      "addressRegion": "puebla",
+      "postalCode": "74110",
       "addressCountry": "MX"
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 19.4326,
-      "longitude": -99.1332
+      "latitude": 19.3265,
+      "longitude": -98.4958
     },
     "openingHoursSpecification": [
       {

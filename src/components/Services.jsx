@@ -9,14 +9,14 @@ const Services = () => {
           <div className="service-icon">
             <Target size={48} strokeWidth={1.5} />
           </div>
-          <h3>Alineación 3D</h3>
+          <h3>Alineación </h3>
           <p>Ajuste preciso de los ángulos de las ruedas para un manejo suave y menor desgaste de llantas.</p>
         </article>
         <article>
           <div className="service-icon">
             <Gauge size={48} strokeWidth={1.5} />
           </div>
-          <h3>Balanceo Computarizado</h3>
+          <h3>Balanceo </h3>
           <p>Eliminamos las vibraciones en el volante y protegemos la suspensión de tu vehículo.</p>
         </article>
         <article>
