@@ -4,7 +4,7 @@ const Contact = () => {
       <h2>Contacto</h2>
       <p>Visítanos o llámanos para brindarte la mejor atención.</p>
       <div className="contact-info">
-        <p><strong>📍 Dirección:</strong> Carretera Federal Mexico-Puebla, San Matias Tlalancalca puebla</p>
+        <p><strong>📍 Dirección:</strong> Carretera Federal Mexico-Puebla, San Matias Tlalancalca </p>
         <p><strong>📞 Teléfono:</strong> +52 123 456 7890</p>
         <p><strong>⏰ Horario:</strong> Lun - Vie: 9:00 AM - 6:00 PM | Sáb: 9:00 AM - 2:00 PM</p>
         <div className="social-contact">
